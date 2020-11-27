@@ -33,4 +33,4 @@ class Messages():
         "**[👨‍💻](https://telegra.ph/file/f2b08ba94ebd139d9da96.jpg) DEVELOPED BY @Kaveesha_Induwara**"
       ]
 
-      START_MSG = "**Hey! [👋](https://telegra.ph/file/8c5c544f1a4498d2334e4.jpg) [{}](tg://user?id={})**\n\n● I Can Force Members To Join A Specific Channel Before Writing Messages In The Group.\n● Learn More At 👉 /help__"
+      START_MSG = "**Hey! [👋](https://telegra.ph/file/adfd6e3fa67801060c95c.png) [{}](tg://user?id={})**\n\n● I Can Force Members To Join A Specific Channel Before Writing Messages In The Group.\n● Learn More At 👉 /help__"
